@@ -2,8 +2,8 @@
 ```bash
 (
   {
-       "Name": "Bima",
-       "Status": "Do not distrub",
+       "Name": "Bimzzx",
+       "Status": "Online",
        "Address": "Java Center, Indonesia",
        "Favourite Language Program": "Python"
   }
@@ -11,7 +11,7 @@
 ```
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/qCxgKnaufy) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/) 
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
